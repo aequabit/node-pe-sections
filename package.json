@@ -1,6 +1,6 @@
 {
 	"name": "pe-sections",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Module to get section names from a PE file.",
 	"main": "pe-headers.js",
 	"author": "aequabit",
