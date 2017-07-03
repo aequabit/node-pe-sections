@@ -6,6 +6,10 @@
 	"author": "aequabit",
 	"license": "MIT",
 	"gypfile": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aequabit/node-pe-sections.git"
+	  },
 	"dependencies": {
 		"bindings": "~1.2.1"
 	}
